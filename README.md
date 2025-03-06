@@ -26,14 +26,9 @@
 * [Ozon Route 256 Junior](https://route256.ozon.ru/?__rr=1) (2022-2023)
 
 ### Contacts
-<div align="left">
-  <a href="https://t.me/thabiys" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="mailto:alexgroga@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<a href="https://t.me/thabiys" align="left">
+  <img src="https://arion-metal.ru/local/templates/bx_orion/images/tlg.png"/ width=50 height=50>
+</a>
 
 
 

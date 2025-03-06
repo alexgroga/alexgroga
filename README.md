@@ -27,7 +27,7 @@
 
 ### Contacts
 <a href="https://t.me/thabiys" align="left">
-  <img src="https://arion-metal.ru/local/templates/bx_orion/images/tlg.png"/ width=50 height=50>
+  <img src="https://arion-metal.ru/local/templates/bx_orion/images/tlg.png"/ width=40 height=40>
 </a>
 
 
